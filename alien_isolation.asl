@@ -1,4 +1,4 @@
-state("AI-steam")
+state("AI")
 {
 	int fadeState :      0x15D24B4;          // cPostProcessing->ScreenFadeType
 	float fadeNum :      0x15D24B8;
